@@ -1,0 +1,5 @@
+{
+  "name": "NetGenius AIOps",
+  "description": "An intelligent, AI-driven network operations platform featuring automated script generation, topology visualization, log analysis, and comprehensive device management.",
+  "requestFramePermissions": []
+}
